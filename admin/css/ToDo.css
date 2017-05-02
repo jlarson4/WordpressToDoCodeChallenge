@@ -1,0 +1,17 @@
+textarea {
+    resize: none;
+}
+
+.dashicons.custom-dashicon, #addToDo {
+    font-size: 25px;
+    float:right;
+}
+
+.dashicons.custom-dashicon{
+	padding-top: 10px;
+}
+
+.completed {
+	text-decoration: line-through;
+	 opacity: 0.6;
+}
